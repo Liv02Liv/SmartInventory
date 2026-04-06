@@ -20,7 +20,7 @@ Sistema desenvolvido com planilhas para simulação de controle de estoque.
 📄 Veja mais: [Solução Inicial](solucao_inicial.txt)
 
 📸
-![Protótipo](images/prototipo.jpeg)
+![Protótipo](prototipo01.jpeg)
 
 ---
 
