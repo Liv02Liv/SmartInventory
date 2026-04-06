@@ -56,4 +56,4 @@ O projeto evoluiu para um sistema em Python com interface gráfica.
 ## ▶️ Como executar
 
 ```bash
-python src/main.py
+python main.py
