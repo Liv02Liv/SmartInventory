@@ -1,0 +1,9 @@
+# Problema
+
+Durante o desenvolvimento do projeto no curso de PCP, foi identificado um problema recorrente na indústria:
+
+- Tempo excessivo na busca de materiais
+- Falta de organização no estoque
+- Paradas de máquina por ausência de peças
+
+Esses fatores impactam diretamente a produtividade e os custos operacionais.

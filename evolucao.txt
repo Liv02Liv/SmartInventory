@@ -1,0 +1,13 @@
+# Evolução
+
+O projeto evoluiu para um sistema em Python com interface gráfica.
+
+Foram implementadas funcionalidades como:
+
+- Controle automatizado de estoque
+- Definição de estoque mínimo e máximo
+- Alertas de reposição
+- Histórico de movimentações
+- Organização automática de localização
+
+Essa evolução tornou o projeto mais próximo de uma aplicação real.

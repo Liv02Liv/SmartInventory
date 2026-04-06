@@ -1,0 +1,11 @@
+# Solução Inicial
+
+A primeira solução foi desenvolvida utilizando planilhas eletrônicas.
+
+O objetivo era simular um sistema de controle de estoque com:
+
+- Registro de entrada e saída
+- Organização por localização
+- Controle manual de estoque
+
+Essa etapa foi importante para validar a ideia.
