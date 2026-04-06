@@ -17,7 +17,7 @@ Tempo perdido na busca de peças e falhas na organização do estoque impactam d
 
 Sistema desenvolvido com planilhas para simulação de controle de estoque.
 
-📄 Veja mais: [Solução Inicial](docs/solucao_inicial.txt)
+📄 Veja mais: [Solução Inicial](solucao_inicial.txt)
 
 📸
 ![Protótipo](images/prototipo.jpeg)
