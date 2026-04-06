@@ -5,7 +5,7 @@ Sistema de gestão de estoque desenvolvido com foco em reduzir tempo de máquina
 
 ---
 
-## 🚨 Problema
+## 🚨 problema.txt
 
 Tempo perdido na busca de peças e falhas na organização do estoque impactam diretamente a produtividade.
 
