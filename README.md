@@ -28,7 +28,7 @@ Sistema desenvolvido com planilhas para simulação de controle de estoque.
 
 O projeto evoluiu para um sistema em Python com interface gráfica.
 
-📄 Veja mais: [Evolução](docs/evolucao.txt)
+📄 Veja mais: [Evolução](evolucao.txt)
 
 📸
 ![Sistema](images/interface.png)
