@@ -31,7 +31,7 @@ O projeto evoluiu para um sistema em Python com interface gráfica.
 📄 Veja mais: [Evolução](evolucao.txt)
 
 📸
-![Sistema](images/interface.png)
+![Sistema](interface.png)
 
 ---
 
